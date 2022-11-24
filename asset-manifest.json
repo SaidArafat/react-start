@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.css": "/react-start/static/css/main.2225d9a7.css",
+    "main.js": "/react-start/static/js/main.96597df1.js",
+    "static/js/787.36f02712.chunk.js": "/react-start/static/js/787.36f02712.chunk.js",
+    "static/media/fa-solid-900.ttf": "/react-start/static/media/fa-solid-900.b1a653db79258eeccc5d.ttf",
+    "static/media/fa-brands-400.ttf": "/react-start/static/media/fa-brands-400.450a5c898f0b184b968b.ttf",
+    "static/media/fa-solid-900.woff2": "/react-start/static/media/fa-solid-900.41c0f706d8ce93933771.woff2",
+    "static/media/fa-brands-400.woff2": "/react-start/static/media/fa-brands-400.3ac6859b28be946745f9.woff2",
+    "static/media/fa-regular-400.ttf": "/react-start/static/media/fa-regular-400.3cd9fb8fcec4ad0f99d4.ttf",
+    "static/media/cabin.png": "/react-start/static/media/cabin.4417330275f78faa31c3.png",
+    "static/media/circus.png": "/react-start/static/media/circus.494a4a914b5471b41f3e.png",
+    "static/media/game.png": "/react-start/static/media/game.a940b57aa7bab2eacc52.png",
+    "static/media/fa-regular-400.woff2": "/react-start/static/media/fa-regular-400.1f3772178d9e5bed38a6.woff2",
+    "static/media/submarine.png": "/react-start/static/media/submarine.48c9704ca7f8ce901038.png",
+    "static/media/avatars.svg": "/react-start/static/media/avatars.aa9aff02ddd0ef36a1724ecef4133df9.svg",
+    "static/media/fa-v4compatibility.ttf": "/react-start/static/media/fa-v4compatibility.e314b618134d5be20996.ttf",
+    "static/media/fa-v4compatibility.woff2": "/react-start/static/media/fa-v4compatibility.4ee7f902d88f819e251c.woff2",
+    "static/media/star-line-secondary.svg": "/react-start/static/media/star-line-secondary.2819ef986a02c5b14c73.svg",
+    "static/media/star-line.svg": "/react-start/static/media/star-line.f1284c53ba011555dd1d.svg",
+    "index.html": "/react-start/index.html",
+    "main.2225d9a7.css.map": "/react-start/static/css/main.2225d9a7.css.map",
+    "main.96597df1.js.map": "/react-start/static/js/main.96597df1.js.map",
+    "787.36f02712.chunk.js.map": "/react-start/static/js/787.36f02712.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2225d9a7.css",
+    "static/js/main.96597df1.js"
+  ]
+}
