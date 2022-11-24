@@ -1,0 +1,49 @@
+.contact {
+  background-color: #fff;
+}
+
+.form__input {
+  display: block;
+  width: 100%;
+  padding: 3rem 2rem;
+  outline: 0;
+  border: 0;
+  border-bottom: 1px solid #ccc;
+}
+
+.form__message {
+  max-width: 100%;
+  min-width: 100%;
+  min-height: 20rem;
+  overflow: hidden;
+}
+
+/* Buttons */
+
+.btn {
+  border-radius: 5px;
+  border: 0;
+  cursor: pointer;
+  color: #fff;
+  font-size: 1.8rem;
+  font-weight: 600;
+  margin: 2rem 0;
+  outline: 0;
+  padding: 2rem 3vw;
+  text-align: center;
+  text-transform: uppercase;
+  white-space: nowrap;
+  background-color: var(--color-primary);
+  transition: all 0.25s;
+}
+
+.btn:hover {
+  background-color: #129278;
+}
+
+@media screen and (min-width: 1024px) {
+  .form {
+    width: 60%;
+    margin: 0 auto;
+  }
+}
